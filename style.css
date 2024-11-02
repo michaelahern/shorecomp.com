@@ -1,0 +1,87 @@
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+body {
+	background-color: #000000;
+}
+.normal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.small-white {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.small-grey {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	font-weight: normal;
+}
+.title-small-grey {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #333333;
+	font-weight: bold;
+}
+.title-large-grey {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #333333;
+	font-weight: bold;
+	padding: 15px 5px 5px 5px;
+}
+.strikeout {
+	text-decoration: line-through;
+}
+.spacer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1px;
+	color: #000000;
+}
+a:link {
+	text-decoration: underline;
+	color: #333333;
+}
+a:visited {
+	text-decoration: underline;
+	color: #333333;
+}
+a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+a:active {
+	text-decoration: underline;
+	color: #333333;
+}
+textarea {
+	background-color: #E8F3FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	border: solid 1px #7F9DB9;
+	padding: 3px;
+	white-space: pre;
+	width: 400px;
+}
+input {
+	background-color: #E8F3FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	border: solid 1px #7F9DB9;
+	padding: 3px;
+}
+select {
+	background-color: #E8F3FF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	border: solid 1px #7F9DB9;
+	padding: 3px;
+}
