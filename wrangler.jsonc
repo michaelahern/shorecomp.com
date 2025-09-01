@@ -1,0 +1,17 @@
+{
+  "name": "shorecomp",
+  "compatibility_date": "2025-08-15",
+  "assets": {
+    "directory": "./public/"
+  },
+  "routes": [
+    {
+      "pattern": "shorecomp.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.shorecomp.com",
+      "custom_domain": true
+    }
+  ]
+}
